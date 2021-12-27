@@ -1,4 +1,5 @@
-<img width="207" alt="Screen Shot 2021-08-10 at 10 27 43 PM" src="https://user-images.githubusercontent.com/25471002/128965079-7d63454c-36cb-41d5-87d0-6d595b60aa8b.png">
+![Screen Shot 2021-12-27 at 2 14 28 AM](https://user-images.githubusercontent.com/25471002/147450583-6c1bbafe-3f15-47b6-affb-c78d3948f216.png)
+
 
 ```[SmartAg™]```
 
